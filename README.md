@@ -1,2 +1,2 @@
-# ethereum-smart-contracts
-Smart contracts for the Ethereum blockchain
+# Ethereum smart contracts
+Smart contracts for the Ethereum platform
