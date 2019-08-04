@@ -1,6 +1,6 @@
 pragma solidity ^0.5.1;
 
-import './libraries/SafeMath_uint8.sol';
+import "https://github.com/GustavJaner/ethereum-smart-contracts/blob/master/contracts/libraries/SafeMath_uint8.sol";
 
 contract OverflowTest {
     using SafeMath_uint8 for uint8; // add library functions as methods to variables of the uint8 data type
